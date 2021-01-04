@@ -1,0 +1,88 @@
+{
+  "theOlympian:Strike_Olympian": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theOlympian:Defend_Olympian": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "theOlympian:DefaultUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theOlympian:DefaultRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theOlympian:DefaultRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! Vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to all enemies, 3 times."
+  },
+  "theOlympian:DefaultRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "theOlympian:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! Vulnerable and !theOlympian:SecondMagic! poison to an enemy."
+  },
+  "theOlympian:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  },
+  "theOlympian:ZeusAid": {
+    "NAME": "Zeus' Aid",
+    "DESCRIPTION": "Retain. At the start of your turn for the next three turns, lightning strikes three random enemies for !M! damage each."
+  },
+  "theOlympian:LightningBolt": {
+    "NAME": "Lightning Bolt",
+    "DESCRIPTION": "Whenever you attack, lightning strikes one random enemy for 1 damage."
+  },
+  "theOlympian:CallLightning": {
+    "NAME": "Call Lightning",
+    "DESCRIPTION": "Deal !D! damage and add 1 [#ffe599]Lighting [#ffe599]Bolt to your discard pile. Exhaust."
+  },
+  "theOlympian:StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTION": "Apply !M! theolympian:Jolted to all enemies."
+  },
+  "theOlympian:FaradayCage": {
+    "NAME": "Faraday Cage",
+    "DESCRIPTION": "Gain !B! block and apply !M! theolympian:Jolted to yourself."
+  },
+  "theOlympian:Thunderstorm": {
+    "NAME": "Thunderstorm",
+    "DESCRIPTION": "Deal !D! damage and apply !M! theolympian:Jolted."
+  },
+  "theOlympian:Electrocute": {
+    "NAME": "Electrocute",
+    "DESCRIPTION": "Deal damage equal to target's theolympian:Jolted.",
+    "UPGRADE_DESCRIPTION": "Dead damage equal to target's theolympian:Jolted +2"
+  },
+  "theOlympian:OhmicResistance": {
+    "NAME": "Ohmic Resistance",
+    "DESCRIPTION": "Gain !B! Block. If ALL Enemies are theolympian:Jolted , gain !B! more Block."
+  },
+  "theOlympian:HeavenlyFuror": {
+    "NAME": "Heavenly Furor",
+    "DESCRIPTION": "When your theolympian:Call is played, add !B! [#ffe599]Lightning [#ffe599]Bolts to your hand."
+  },
+  "theOlympian:CloudedJudgement": {
+    "NAME": "Clouded Judgement",
+    "DESCRIPTION": "Gain !B! Block. When your theolympian:Call is played, gain !M! Block."
+  },
+  "theOlympian:LightningRod": {
+    "NAME": "Lightning Rod",
+    "DESCRIPTION": "Add a [#ffe599]Lightning [#ffe599]Bolt to your hand whenever you block all incoming damage."
+  },
+  "theOlympian:CurseOfLykaia": {
+    "NAME": "Curse of Lykaia",
+    "DESCRIPTION": "Deal !D! Damage. Apply 40 theolympian:Jolted to yourself. In two turns, remove all theolympian:Jolted from yourself."
+  },
+  "theOlympian:Fulmination": {
+    "NAME": "Fulmination",
+    "DESCRIPTION": "Ethereal. Apply !M! theolympian:Jolted to target. At the start of your next turn, add a [#ffe599]Fulmination to your hand."
+  }
+}

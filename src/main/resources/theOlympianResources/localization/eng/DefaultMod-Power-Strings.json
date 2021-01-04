@@ -1,0 +1,47 @@
+{
+    "theOlympian:CommonPower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["You applied #b", " keyword.", " keywords."]
+    },
+    "theOlympian:RarePower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["At the start of your turn, TOUCH #b", " enemy." , " enemies."]
+    },
+    "theOlympian:LightningPower": {
+        "NAME": "Zeus' Lightning",
+        "DESCRIPTIONS": ["At the start of your turn for the next #b", " turn(s), lightning strikes three random enemies for #b",  " damage."]
+    },
+    "theOlympian:LightningBoltPower": {
+        "NAME": "Lightning Bolt",
+        "DESCRIPTIONS": ["Whenever you play an attack, lightning strikes #b", " random enemies for 1 damage."]
+    },
+    "theOlympian:JoltedPlayerPower": {
+        "NAME": "Jolted",
+        "DESCRIPTIONS": ["The next time you play an Attack, lose #b", " HP and all #yJolted will be removed."]
+    },
+    "theOlympian:JoltedEnemyPower": {
+        "NAME": "Jolted",
+        "DESCRIPTIONS": ["The next time this enemy attacks, it loses #b", " HP and all #yJolted will be removed."]
+    },
+    "theOlympian:HeavenlyFurorPower": {
+        "NAME": "Heavenly Furor",
+        "DESCRIPTIONS": ["Whenever you play your theolympian:Call", ", add #b", " Lightning Bolts to your hand."]
+    },
+    "theOlympian:CloudedJudgementPower": {
+        "NAME": "Clouded Judgement",
+        "DESCRIPTIONS": ["Whenever you play your theolympian:Call", ", gain #b", " Block."]
+    },
+    "theOlympian:LightningRodPower": {
+        "NAME": "Lightning Rod",
+        "DESCRIPTIONS": ["Whenever you block all damage, add #b", " Lightning Bolt(s) to your hand."]
+    },
+    "theOlympian:LykaiaPower": {
+        "NAME": "Curse of Lykaia",
+        "DESCRIPTIONS": ["In #b", " turns, remove all #yJolted from player."]
+    },
+    "theOlympian:FulminationPower": {
+        "NAME": "Fulmination",
+        "DESCRIPTIONS": ["At the start of your next turn, add a [#ffe599]Fulmination to your hand."]
+    }
+
+}
